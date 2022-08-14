@@ -1,12 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to&fontAlignY=35&fontSize=80&height=220&animation=fadeIn&desc=Yoon's%20repository&descAlignY=53)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Yoon </h1>  
-  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:nakevin96@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/nakevin96"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
 
 <br/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
